@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeKeyDefaultValueTest001", "CompositeKeyDefaultValueTest001\CompositeKeyDefaultValueTest001.csproj", "{C41D5C09-2513-45E4-93D5-7F277F964A2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C41D5C09-2513-45E4-93D5-7F277F964A2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C41D5C09-2513-45E4-93D5-7F277F964A2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C41D5C09-2513-45E4-93D5-7F277F964A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C41D5C09-2513-45E4-93D5-7F277F964A2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DD51511-098E-42C9-AF8E-A88E34FEE546}
+	EndGlobalSection
+EndGlobal
